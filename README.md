@@ -23,11 +23,14 @@
 | ------- | ------- | -------|
 | **2021.10 – .11** | **[Grand Prize] 2021 Mobile App/Idea Contest_App Development Category** | [Personalized scholarship app at a glance<br>(한 눈에 모아보는 개인맞춤형 장학금 앱)](https://github.com/Swucholarship-guru2/swucholarship) |
 | **2021.07 - .08** | **[Grand Prize] 2021 Seoul Energy Information Platform Hackathon Competition** | 2050 Carbon Neutrality Activation Program Using Public Energy Data<br>(공공 에너지 데이터를 활용한 2050탄소중립 활성화 프로그램) | 
-| **2021.07 - .07** | **3rd AIxBookathon Competition** | AI model for generating literary works using the GPT model<br>(GPT 모델을 활용한 문학 작품 생성 AI 모델) |
-| **2020.09 - .10** | **[Encouragement Award] 2021 SW Startup Contest Startup Item Idea Category** | Presenting a 2050 carbon neutral activation program using an energy information platform<br>(에너지 정보 플랫폼을 활용한 2050탄소중립 활성화 프로그램 제시) |
+| **2021.07 - .08** | **3rd AIxBookathon Competition** | AI model for generating literary works using the GPT model<br>(GPT 모델을 활용한 문학 작품 생성 AI 모델) |
+| **2021.10 – .11** | **Development of on-campus lost and found web service** | [Development of on-campus lost and found web service<br>(교내 분실물 웹서비스 개발)](https://github.com/GDSC-SWU/2022-02-Web-Dev-Toy-Project-BE) |
+| **2021.11 – .12** | **[Encouragement Award] 2021 SW Startup Contest Startup Item Idea Category** | Presenting a 2050 carbon neutral activation program using an energy information platform<br>(에너지 정보 플랫폼을 활용한 2050탄소중립 활성화 프로그램 제시) |
 | **2022.03 – .11** | **[Encouragement Award] 2022 Fall Conference Outstanding Paper Presentation Award(hosted by Korea Simulation Society)** | [Career Management Based On Compensation System Using Ethereum Blockchain And Ethereum Blockchain Performance Assessment<br>(이더리움 블록체인을 활용한 보상체계 기반의 이력 통합 관리 시스템 개발 및 성능평가)](https://github.com/ECAC-Education-Cert-And-Community) |
 | **2023.02** | **[Excellence Award] 2022 Seoul Women’s University IR Demo Day** | [Career Management Based On Compensation System Using Ethereum Blockchain And Ethereum Blockchain Performance Assessment<br>(이더리움 블록체인을 활용한 보상체계 기반의 이력 통합 관리 시스템 개발 및 성능평가)](https://github.com/ECAC-Education-Cert-And-Community) |  
 | **2022.07 - .08** | **[Grand Prize] 2022 College Student Financial Security Camp Idea Contest(hosted by Financial Security Institute)** | Presentation of measures to protect electronic financial transaction information<br>전자금융거래 정보보호 방안 제시 |
+| **2023.07 – .08** | **CJ Logistics Future Technology Challenge 2023** | [Product volume measurement using a smartphone<br>(스마트폰을 활용한 상품 체적 측정)](https://github.com/Park-HyeJeong/2023_CJ)
+
 
 ### 💪 Skills
 #### Platforms & Languages
