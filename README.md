@@ -21,7 +21,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| **2021.10 – .11** | **[Grand Prize] 2021 Mobile App/Idea Contest_App Development Category** | [Personalized scholarship app at a glance<br>(한 눈에 모아보는 개인맞춤형 장학금 앱)](https://github.com/Swucholarship-guru2/swucholarship) |
+<!--| **2021.10 – .11** | **[Grand Prize] 2021 Mobile App/Idea Contest_App Development Category** | [Personalized scholarship app at a glance<br>(한 눈에 모아보는 개인맞춤형 장학금 앱)](https://github.com/Swucholarship-guru2/swucholarship) |-->
 | **2021.07 - .08** | **[Grand Prize] 2021 Seoul Energy Information Platform Hackathon Competition** | 2050 Carbon Neutrality Activation Program Using Public Energy Data<br>(공공 에너지 데이터를 활용한 2050탄소중립 활성화 프로그램) | 
 | **2021.07 - .08** | **3rd AIxBookathon Competition** | AI model for generating literary works using the GPT model<br>(GPT 모델을 활용한 문학 작품 생성 AI 모델) |
 | **2021.10 – .11** | **Development of on-campus lost and found web service** | [Development of on-campus lost and found web service<br>(교내 분실물 웹서비스 개발)](https://github.com/GDSC-SWU/2022-02-Web-Dev-Toy-Project-BE) |
