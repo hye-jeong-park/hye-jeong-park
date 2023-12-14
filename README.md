@@ -23,6 +23,7 @@
 | ------- | ------- | -------|
 | **2021.07 - .08** | **[Grand Prize] 2021 Seoul Energy Information Platform Hackathon Competition** | 2050 Carbon Neutrality Activation Program Using Public Energy Data<br>(공공 에너지 데이터를 활용한 2050탄소중립 활성화 프로그램) | 
 | **2021.07 - .08** | **3rd AIxBookathon Competition** | AI model for generating literary works using the GPT model<br>(GPT 모델을 활용한 문학 작품 생성 AI 모델) |
+| **2021.10 – .11** | **[Grand Prize] 2021 Mobile App/Idea Contest_App Development Category** | [Development of a personalized scholarship app that collects information at a glance<br>(한 눈에 모아보는 개인맞춤형 장학금 앱 개발)](https://github.com/hye-jeong-park/swucholarship-project) |
 | **2021.10 – .11** | **Development of on-campus lost and found web service** | [Development of on-campus lost and found web service<br>(교내 분실물 웹서비스 개발)](https://github.com/GDSC-SWU/2022-02-Web-Dev-Toy-Project-BE) |
 | **2021.11 – .12** | **[Encouragement Award] 2021 SW Startup Contest Startup Item Idea Category** | Presenting a 2050 carbon neutral activation program using an energy information platform<br>(에너지 정보 플랫폼을 활용한 2050탄소중립 활성화 프로그램 제시) |
 | **2022.03 – .11** | **[Encouragement Award] 2022 Fall Conference Outstanding Paper Presentation Award(hosted by Korea Simulation Society)** | [Career Management Based On Compensation System Using Ethereum Blockchain And Ethereum Blockchain Performance Assessment<br>(이더리움 블록체인을 활용한 보상체계 기반의 이력 통합 관리 시스템 개발 및 성능평가)](https://github.com/ECAC-Education-Cert-And-Community) |
