@@ -14,7 +14,10 @@
 | **2022.07 - .09** | **‘2022 Samsung Junior SW Creation Contest’ Mentor** | Collaborate with Samsung executives and employees to mentor contest participants |
 | **2022.03 - 2023.08** | **External researcher at Chung-Ang University Blockchain Service Research Center** | Career Management Based On Compensation System Using Ethereum Blockchain And Ethereum Blockchain Performance Assessment |
 | **2022.10 - 2023.08** | **GDSC SWU(Google Developer Student Clubs) Core Member of Web** | Java Spring Study (2022.09 - 12)<br>Development of on-campus lost and found web service (2022.10 - 12)<br>X-Mas Ideathon (2022.12)<br>Korea-Japan Joint Hackathon (2023.02)<br>Google Solution Challenge (2023.01 - 03) |
-| **2023.07 -** | **Security service developer at 여기어때** | Developing the web service |  
+| **2023.07 - 2023.12** | **Security service developer at 여기어때** | Developing the web service |  
+| **2024.07 - 2023.08** | **Cloud Security Engineer at Innogrid** | Deploying cloud systems and analyzing system vulnerabilities |  
+| **2024.09 -** | **Data Protect Officer at Com2us** | Managing and operating personal information processing systems, updating the personal information handling policy, and supporting risk mitigation in the personal information management system |  
+
 
 
 ### 🏆 Project  
