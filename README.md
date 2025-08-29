@@ -62,9 +62,6 @@
 
 ![Contribution stats](https://github-readme-stats.vercel.app/api?username=hye-jeong-park&show_icons=true)
 
-### :cyclone: Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-jeong-park&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:park061138@gmail.com)](mailto:park061138@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hye-jeong-park-0bb36b258)](https://www.linkedin.com/in/hye-jeong-park-0bb36b258) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cloud-0611.tistory.com/)](https://cloud-0611.tistory.com/)
 
